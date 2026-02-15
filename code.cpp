@@ -5,8 +5,8 @@
 const char* ssid = "YOUR_WIFI_NAME";
 const char* pass = "YOUR_WIFI_PASSWORD";
 
-const char* sid  = "";
-const char* tok  = "";
+const char* sid  = "AC11a60a8e4012f9dc08ed65ca4c213d26";
+const char* tok  = "bfcc6130cff6e1ec1cea5eb1d30af320";
 
 const char* fromN = "+";
 const char* toN   = "+";
